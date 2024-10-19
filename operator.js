@@ -37,3 +37,9 @@ console.log(a);
 let g = 12;
 
 console.log(g === "12");
+
+// tenary operator
+
+if (x == 12 && a == 23) {
+    console.log("this some thing");
+}

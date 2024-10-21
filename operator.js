@@ -43,3 +43,8 @@ console.log(g === "12");
 if (x == 12 && a == 23) {
     console.log("this some thing");
 }
+
+if (a == b || b == a) {
+    console.log("some things");
+    
+}
